@@ -1,5 +1,11 @@
 ## [Publications](publications.md) | [CV](CV.md) | [Projects](projects.md) | [Awards](awards.md)
 
+<style>
+        li {
+            padding-left: 23px;
+        }
+</style>
+
 <br>
 <img src="profile.jpg" alt="alt text" width="150" align="left"/>
 
