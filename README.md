@@ -1,4 +1,5 @@
 ## [Publications](publications.md) | [CV](CV.md) | [Projects](projects.md) | [Awards](awards.md)
+
 <br>
 <img src="profile.jpg" alt="alt text" width="150" align="right"/>
 
