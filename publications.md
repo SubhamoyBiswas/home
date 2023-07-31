@@ -2,7 +2,7 @@
 
 <ul>
 	<li><font size="+2">Journal articles<br></font><ol>
-		<li> Saliani A, <b>Biswas S</b>, Jacquemet V. (2022) "Simulation of atrial fibrillation in a non-ohmic propagation model with dynamic gap junctions". Chaos. 32(4):043113. <a href="https://doi.org/10.1063/5.0082763" target="_top">[DOI]</a></li><br>
+		<li> <br>Saliani A, <b>Biswas S</b>, Jacquemet V. (2022) "Simulation of atrial fibrillation in a non-ohmic propagation model with dynamic gap junctions". Chaos. 32(4):043113. <a href="https://doi.org/10.1063/5.0082763" target="_top">[DOI]</a></li><br>
 		<li> <b>Biswas S</b>, Dey S, Chatterjee S, Nandy A. (2022) "Combatting future variants of SARS-CoV-2 using an in-silico peptide vaccine approach by targeting the spike protein". Medical Hypotheses. 161:110810. <a href="https://doi.org/10.1016/j.mehy.2022.110810" target="_top">[DOI]</a></li><br>
 		<li> <b>Biswas S</b>, Manna S, Nandy A, Basak SC. (2021) "New Computational Approach for Peptide Vaccine Design Against SARS-COV-2". International Journal of Peptide Research and Therapeutics. 27(4):2257-2273. <a href="https://doi.org/10.1007/s10989-021-10251-7" target="_top">[DOI]</a></li><br>
 		<li> <b>Biswas S</b>, Manna S, Dey T, Chatterjee S, Dey S. (2022) "Identification of Generalized Peptide Regions for Designing Vaccine Effective for All Significant Mutated Strains of SARS-CoV-2". Combinatorial Chemistry and High Throughput Screening. 25(3):414-428. <a href="https://doi.org/10.2174/1386207324666210601122820" target="_top">[DOI]</a></li><br>
