@@ -13,7 +13,8 @@
 <br>
 <br>I have enjoyed working at the following institutions:
 <br>
-<img src="UW.png" alt="alt text" height="200" align="middle"/>    <img src="Udem.png" alt="alt text" height="200" align="middle"/>    <img src="JU.png" alt="alt text" height="200" align="middle"/>
+<br>
+<img src="UW.png" alt="alt text" height="100" align="middle"/>    <img src="Udem.png" alt="alt text" height="100" align="middle"/>    <img src="JU.png" alt="alt text" height="100" align="middle"/>
 <br>
 <br>In my free time, I enjoy reading and watching horror stories.
 <br>
