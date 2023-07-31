@@ -2,7 +2,6 @@
 
 <img src="profile.jpg" alt="alt text" width="200" align="right"/>
 
-<br>
 <br>Currently, I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/) working on:
 <ol>
 	<li> developing time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients</li>
