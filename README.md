@@ -1,7 +1,7 @@
 ## [Publications](publications.md) | [CV](CV.md) | [Projects](projects.md) | [Awards](awards.md)
 
 <br>
-<br><img src="background.jpg" alt="alt text" width="500" align="middle"/>
+<br><img src="background.jpg" alt="alt text" height="200" align="middle"/>    <img src="profile.jpg" alt="alt text" height="200" align="middle"/>
 <br>
 <br>
 
@@ -18,7 +18,7 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
 <br>I have enjoyed working at the following institutions:
 <br>
 <br>
-<img src="UW.png" alt="alt text" height="60" align="middle"/>    <img src="Udem.png" alt="alt text" height="60" align="middle"/>    <img src="JU.png" alt="alt text" height="60" align="middle"/>
+<img src="UW.png" alt="alt text" height="80" align="middle"/>    <img src="Udem.png" alt="alt text" height="80" align="middle"/>    <img src="JU.png" alt="alt text" height="80" align="middle"/>
 <br>
 <br>In my free time, I enjoy reading and watching horror stories.
 <br>
