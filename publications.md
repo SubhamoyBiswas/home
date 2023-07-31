@@ -9,10 +9,10 @@
 		<li> Manna S, Dey S, <b>Biswas S</b>, Nandy A, Basak SC. (2021) "Current Perspective of Zika Virus and Vaccine Development". Exploratory Research and Hypothesis in Medicine. 6(1):9-17. <a href="https://dx.doi.org/10.14218/ERHM.2020.00060" target="_top">[DOI]</a></li><br>
 	</ol></li>
 	<br>
-	<li><font size="+2">Conference articles<br></font><ol>
-		<li> <b>Biswas S</b>, Dey T, Chatterjee S, Manna S, Nandy A, Das S, Nandy P, Basak SC. (2020) "Novel Algorithms for In Silico Peptide Vaccine Design with Reference to Ebola Virus," IEEE International Conference on Computer, Electrical and Communication Engineering, Kolkata, India. 1-8. <a href="https://doi.org/10.1109/ICCECE48148.2020.9223075" target="_top">[DOI]</a></li><br>
+	<li><font size="+2">Conference articles</font><ol>
+		<br><li> <b>Biswas S</b>, Dey T, Chatterjee S, Manna S, Nandy A, Das S, Nandy P, Basak SC. (2020) "Novel Algorithms for In Silico Peptide Vaccine Design with Reference to Ebola Virus," IEEE International Conference on Computer, Electrical and Communication Engineering, Kolkata, India. 1-8. <a href="https://doi.org/10.1109/ICCECE48148.2020.9223075" target="_top">[DOI]</a></li><br>
 		<li> Dey T, <b>Biswas S</b>, Chatterjee S, Manna S, Nandy A, Basak SC. (2020) "2D Polar Co-ordinate Representation of Amino Acid Sequences With some applications to Ebola virus, SARS and SARS-CoV-2 (COVID 19)". MDPI MOL2NET-06, UMN Duluth. <a href="https://doi.org/10.3390/mol2net-06-06790" target="_top">[DOI]</a></li><br>
-		<li> <b>Biswas S</b>, Chatterjee S, Dey T, Dey S, Manna S, Nandy A, Basak SC. (2020) "In Silico Approach for Peptide Vaccine Design for CoVID 19", MDPI Mol2Net-06, UMN Duluth. <a href="https://doi.org/10.3390/mol2net-06-06787" target="_top">[DOI]</a></li>
-		<li> <b>Biswas S</b>, Chatterjee S, Dey T, Manna S, Nandy A, Das S, Nandy P, Basak SC. (2019) "A novel approach to Peptide Vaccine Design for Ebola virus". MDPI Mol2Net-05, UMN Duluth. <a href="https://doi.org/10.3390/mol2net-05-06712" target="_top">[DOI]</a></li>
+		<li> <b>Biswas S</b>, Chatterjee S, Dey T, Dey S, Manna S, Nandy A, Basak SC. (2020) "In Silico Approach for Peptide Vaccine Design for CoVID 19", MDPI Mol2Net-06, UMN Duluth. <a href="https://doi.org/10.3390/mol2net-06-06787" target="_top">[DOI]</a></li><br>
+		<li> <b>Biswas S</b>, Chatterjee S, Dey T, Manna S, Nandy A, Das S, Nandy P, Basak SC. (2019) "A novel approach to Peptide Vaccine Design for Ebola virus". MDPI Mol2Net-05, UMN Duluth. <a href="https://doi.org/10.3390/mol2net-05-06712" target="_top">[DOI]</a></li><br>
 	</ol></li>
 </ul>
