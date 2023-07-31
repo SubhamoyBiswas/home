@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<img src="background.jpg" alt="alt text" width="150" align="middle"/>
+<img src="background.jpg" alt="alt text" width="500" align="middle"/>
 <br>
 <br>
 
