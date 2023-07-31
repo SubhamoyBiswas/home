@@ -17,7 +17,6 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
 <br>
 <br>I have enjoyed working at the following institutions:
 <br>
-<br>
 <table border: none>
   <tr>
     <th><img src="UW.png" alt="alt text" height="100" align="middle"/></th>
@@ -26,7 +25,7 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
   </tr>
 </table>
 <!-- <img src="UW.png" alt="alt text" height="100" align="middle"/>    <img src="Udem.png" alt="alt text" height="100" align="middle"/>    <img src="JU.png" alt="alt text" height="100" align="middle"/> -->
-<br>
+
 <br>In my free time, I enjoy reading and watching horror stories.
 <br>
 <br>
