@@ -12,7 +12,7 @@ Currently, I am a research candidate in the Master of Applied Science in Electri
 <br>
 <br>I have enjoyed working at the following institutions:
 <br>
-<img src="UW_logo.png" alt="alt text" width="200" align="middle"/>    <img src="UdeM_logo.png" alt="alt text" width="200" align="middle"/>    <img src="JU_logo.png" alt="alt text" width="200" align="middle"/>
+<img src="UW.png" alt="alt text" width="200" align="middle"/>    <img src="Udem.png" alt="alt text" width="200" align="middle"/>    <img src="JU_logo.png" alt="alt text" width="200" align="middle"/>
 <br>
 <br>In my free time, I enjoy reading and watching horror stories.
 <br>
