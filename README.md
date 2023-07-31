@@ -1,8 +1,7 @@
 ## [Publications](publications.md) | [CV](CV.md) | [Projects](projects.md) | [Awards](awards.md)
 
 <br>
-<br>
-<img src="background.jpg" alt="alt text" width="600" align="middle"/>
+<br><img src="background.jpg" alt="alt text" width="600" align="middle"/>
 <br>
 <br>
 
