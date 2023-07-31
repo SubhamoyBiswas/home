@@ -2,7 +2,8 @@
 
 <br>
 <br>
-<img src="background.jpg" alt="alt text" width="150" align="right"/>
+<img src="background.jpg" alt="alt text" width="150" align="middle"/>
+<br>
 
 Hi!
 
