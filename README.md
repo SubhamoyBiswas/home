@@ -18,4 +18,5 @@ Currently, I am a research candidate in the Master of Applied Science in Electri
 <br>In my free time, I enjoy reading and watching horror stories.
 <br>
 <br>
+<br>
 <a href="mailto:s2biswas@uwaterloo.ca" target="_top">Email</a> | <a href="https://github.com/SubhamoyBiswas/" target="_top">GitHub</a> | <a href="https://www.linkedin.com/in/subhamoy-biswas-16869316a/" target="_top">LinkedIn</a> | <a href="https://scholar.google.ca/citations?user=bHMeN1UAAAAJ&hl=en" target="_top">Google Scholar</a> | <a href="https://www.instagram.com/__subhamoy.b/" target="_top">Instagram</a>
