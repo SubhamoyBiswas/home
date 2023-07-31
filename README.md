@@ -18,7 +18,7 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
 <br>I have enjoyed working at the following institutions:
 <br>
 <br>
-<table>
+<table border: none>
   <tr>
     <th><img src="UW.png" alt="alt text" height="100" align="middle"/></th>
     <th><img src="Udem.png" alt="alt text" height="100" align="middle"/></th> 
