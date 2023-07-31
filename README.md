@@ -1,6 +1,6 @@
 ## [Publications](publications.md) | [CV](CV.md) | [Projects](projects.md) | [Awards](awards.md)
 <br>
-<img src="profile.jpg" alt="alt text" width="150" align="left"/>
+<img src="profile.jpg" alt="alt text" width="150" align="right"/>
 
 Currently, I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/) working on:
 
