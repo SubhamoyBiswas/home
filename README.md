@@ -4,10 +4,10 @@
 <img src="profile.jpg" alt="alt text" width="150" align="left"/>
 
 Currently, I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/) working on:
-<ol>
+<ul><ul><ul>
 	<li style="padding-left: 30px"> developing time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients</li>
 	<li style="padding-left: 30px"> fabricating and optimizing minimally-invasive microneedles for bioanalyte detection</li>
-</ol>
+</ul></ul></ul>
 
 I received my Bachelor of Engineering with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
 <br>
