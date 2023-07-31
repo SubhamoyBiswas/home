@@ -7,7 +7,7 @@ Currently, I am a research candidate in the Master of Applied Science in Electri
 1.&emsp;&nbsp;&nbsp;time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients</li>
 <br>2.&emsp;&nbsp;&nbsp;fabrication and optimization of minimally-invasive microneedles for bioanalyte detection</li>
 
-I received my Bachelor of Engineering with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
+<br>I received my Bachelor of Engineering with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
 <br>
 <br>I have enjoyed working at the following institutions:
 <br>
