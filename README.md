@@ -2,20 +2,17 @@
   ul {
     list-style-type: none;
   }
-  
   .navbar {
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: space-between;
     padding: 20px;
-    background-color: teal;
-    color: #fff;
+    background-color: white;
+    color: #000;
   }
-  
   .nav-links a {
-    color: #fff;
+    color: #000;
   }
-  
   /* LOGO */
   .logo {
     font-size: 32px;
@@ -29,7 +26,7 @@
   }
 
   .menu li:hover {
-    background-color: #4c9e9e;
+    background-color: #fff;
     border-radius: 5px;
     transition: 0.3s ease;
   }
