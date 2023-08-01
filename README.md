@@ -1,4 +1,4 @@
-## [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md)
+### <i class="fa fa-home"></i>  |  [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md)
 
 <br>
 Hi, I am Subhamoy!
