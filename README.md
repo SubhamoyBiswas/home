@@ -1,3 +1,23 @@
+<nav>  
+<ul>  
+<li>  
+<a href="README.md"> Home </a>  
+</li>  
+<li>  
+<a href="publications.md"> Publications </a>  
+</li>  
+<li>  
+<a href="project.md"> Projects </a>  
+</li>  
+<li>
+<a href="CV.md"> CV </a>  
+</li>  
+<li>  
+<a href="awards.md"> Awards </a>  
+</li>  
+</ul>  
+</nav> 
+
 ## [Publications](publications.md) | [CV](CV.md) | [Projects](projects.md) | [Awards](awards.md)
 
 <br>
