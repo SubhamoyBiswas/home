@@ -6,7 +6,7 @@
     display: flex;
     align-items: left;
     justify-content: space-between;
-    padding: 20px;
+    padding: 5px;
     background-color: white;
     color: #000;
   }
@@ -22,7 +22,8 @@
   .menu {
     display: flex;
     gap: 1em;
-    font-size: 18px;
+    font-size: 20px;
+    font-family: 'Lucida Grande
   }
 
   .menu li:hover {
