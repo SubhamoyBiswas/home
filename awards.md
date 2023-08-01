@@ -14,3 +14,10 @@
 		<li> $3,500 (converted) - Awarded to “top 73/2000+” undergraduate applicants in West Bengal, India, based on a 3-level competition in natural sciences</li><br>
 	</ul></li>
 </ul>
+<br>
+<br>
+<br>
+<br>
+[<< return to homepage](README.md)
+
+
