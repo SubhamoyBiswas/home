@@ -73,17 +73,17 @@
     <!-- <input type="checkbox" id="checkbox_toggle" /> -->
     <!-- <label for="checkbox_toggle" class="hamburger">&#9776;</label> -->
     <div class="menu">
-      <li><a href="./README.md">[Home](./README.md)</a></li>
-      <li>[Projects](./projects.md)</li>
+      <li><a href="https://subhamoybiswas.github.io/home/">Home</a></li>
+      <li><a href="https://subhamoybiswas.github.io/home/projects.html">Projects</a></li>
       <li class="services">
-        [Publications](./publications.md)
+        <a href="https://subhamoybiswas.github.io/home/publications.html">Publications</a>
         <ul class="dropdown">
-          <li>[Journal articles](./publications.md)</li>
-          <li>[Conference articles](./publications.md)</li>
+          <li><a href="https://subhamoybiswas.github.io/home/publications.html">Journal articles</a></li>
+          <li><a href="https://subhamoybiswas.github.io/home/publications.html">Conference articles</a></li>
         </ul>
       </li>
-      <li>[CV](CV.md)</li>
-      <li>[Awards](awards.md)</li>
+      <li><a href="https://subhamoybiswas.github.io/home/CV.html">CV</a></li>
+      <li><a href="https://subhamoybiswas.github.io/home/awards.html">Awards</a></li>
     </div>
   </ul>
 </nav>
