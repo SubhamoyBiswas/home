@@ -21,6 +21,7 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
 <br>
 <img src="UW.png" alt="alt text" height="80" align="middle"/>    <img src="Udem.png" alt="alt text" height="80" align="middle"/>    <img src="JU.png" alt="alt text" height="80" align="middle"/>
 <br>
+<br>
 <br>In my free time, I enjoy reading and watching horror stories.
 <br>
 <br>
