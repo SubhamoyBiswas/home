@@ -15,8 +15,6 @@
 	</ul></li>
 </ul>
 <br>
-<br>
-<br>
 ### [<< return to homepage](README.md)
 
 
