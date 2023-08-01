@@ -73,17 +73,17 @@
     <!-- <input type="checkbox" id="checkbox_toggle" /> -->
     <!-- <label for="checkbox_toggle" class="hamburger">&#9776;</label> -->
     <div class="menu">
-      <li><a href="README.md">Home</a></li>
-      <li><a href="projects.md">Projects</a></li>
+      <li>[Home](README.md)</li>
+      <li>[Projects](projects.md)</li>
       <li class="services">
-        <a href="publications.md">Publications</a>
+        [Publications](publications.md)
         <ul class="dropdown">
-          <li><a href="publications.md">Journal articles </a></li>
-          <li><a href="publications.md">Conference articles </a></li>
+          <li>[Journal articles](publications.md)</li>
+          <li>[Conference articles](publications.md)</li>
         </ul>
       </li>
-      <li><a href="CV.md">CV</a></li>
-      <li><a href="awards.md">Awards</a></li>
+      <li>[CV](CV.md)</li>
+      <li>[Awards](awards.md)</li>
     </div>
   </ul>
 </nav>
