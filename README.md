@@ -8,7 +8,7 @@
 
 Hi, I am Subhamoy!
 
-I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/) working on:
+I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
 
 1. time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients
 2. fabrication and optimization of minimally-invasive microneedles for bioanalyte detection
