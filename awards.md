@@ -11,6 +11,6 @@
 		<br><li> $15,000 - Awarded for pursuing research masters in Canada</li><br>
 	</ul></li>
 	<li><font size="+2"><b>Senior Scholarship</b> - Jagadis Bose National Science Talent Search, India</font><ul>
-		<br><li> $3,500 - Awarded to “top 73/2000+” undergraduate applicants in West Bengal, India, based on a 3-level competition in natural sciences</li><br>
+		<br><li> $3,500 (converted) - Awarded to “top 73/2000+” undergraduate applicants in West Bengal, India, based on a 3-level competition in natural sciences</li><br>
 	</ul></li>
 </ul>
