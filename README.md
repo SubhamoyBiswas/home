@@ -44,7 +44,7 @@
   }
 
   .dropdown {
-    background-color: rgb(1, 139, 139);
+    background-color: rgb(254, 254, 254);
     padding: 1em 0;
     position: absolute; /*WITH RESPECT TO PARENT*/
     display: none;
@@ -59,11 +59,11 @@
   .dropdown li {
     padding: 0.5em 1em;
     width: 8em;
-    text-align: center;
+    text-align: left;
   }
 
   .dropdown li:hover {
-    background-color: #4c9e9e;
+    background-color: white;
   }
 
   .services:hover .dropdown {
@@ -73,8 +73,8 @@
 
 <nav class="navbar">
   <ul class="nav-links">
-    <input type="checkbox" id="checkbox_toggle" />
-    <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+    <!-- <input type="checkbox" id="checkbox_toggle" /> -->
+    <!-- <label for="checkbox_toggle" class="hamburger">&#9776;</label> -->
     <div class="menu">
       <li><a href="README.md">Home</a></li>
       <li><a href="projects.md">Projects</a></li>
