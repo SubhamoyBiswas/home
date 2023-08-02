@@ -15,7 +15,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 225px;
+    width: 300px;
     height: 100%;
     padding: 20px 0;
     transition: all 0.5s ease;
@@ -71,42 +71,38 @@
            <ul>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/" class="active">
-                        <span class="icon"><i class="fas fa-home"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-home"></i></span> -->
                         <span class="item">Home</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/projects.html">
-                        <span class="icon"><i class="fas fa-desktop"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-desktop"></i></span> -->
                         <span class="item">Projects</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/publications.html">
-                        <span class="icon"><i class="fas fa-user-friends"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-user-friends"></i></span> -->
                         <span class="item">Publications</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/awards.html">
-                        <span class="icon"><i class="fas fa-tachometer-alt"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-tachometer-alt"></i></span> -->
                         <span class="item">Awards</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/CV.html">
-                        <span class="icon"><i class="fas fa-database"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-database"></i></span> -->
                         <span class="item">CV</span>
                     </a>
                 </li>
             </ul>
         </div>
 </div>
-
-
-
 <!-- ### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md) -->
-
 <br>
 Hi, I am Subhamoy!
 
@@ -131,6 +127,6 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
 <br>
 <br>
 <br>
-### <a href="mailto:s2biswas@uwaterloo.ca" target="_top">Email</a> | <a href="https://github.com/SubhamoyBiswas/" target="_top">GitHub</a> | <a href="https://www.linkedin.com/in/subhamoy-biswas-16869316a/" target="_top">LinkedIn</a> | <a href="https://scholar.google.ca/citations?user=bHMeN1UAAAAJ&hl=en" target="_top">Google Scholar</a> | <a href="https://www.instagram.com/__subhamoy.b/" target="_top">Instagram</a>
+<!-- ### <a href="mailto:s2biswas@uwaterloo.ca" target="_top">Email</a> | <a href="https://github.com/SubhamoyBiswas/" target="_top">GitHub</a> | <a href="https://www.linkedin.com/in/subhamoy-biswas-16869316a/" target="_top">LinkedIn</a> | <a href="https://scholar.google.ca/citations?user=bHMeN1UAAAAJ&hl=en" target="_top">Google Scholar</a> | <a href="https://www.instagram.com/__subhamoy.b/" target="_top">Instagram</a>
 <br>
-<br>
+<br> -->
