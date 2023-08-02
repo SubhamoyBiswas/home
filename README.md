@@ -7,7 +7,7 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
   }
-  body {
+  /*body {
     background: #f5f6fa;
   }
   .wrapper .sidebar{
@@ -50,7 +50,7 @@
   .wrapper .sidebar ul li a:hover:before,
   .wrapper .sidebar ul li a.active:before{
     display: block;
-  }
+  } */
   .wrapper .content{
     display: inline-block;
     margin-left: 0px;
@@ -58,41 +58,35 @@
 </style>
 
 <div class="wrapper">
-        <!--Top menu -->
-        <div class="sidebar">
+        <!--<div class="sidebar">
            <ul>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/" class="active">
-                        <!-- <span class="icon"><i class="fas fa-home"></i></span> -->
                         <span class="item">About</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/projects.html">
-                        <!-- <span class="icon"><i class="fas fa-desktop"></i></span> -->
                         <span class="item">Projects</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/publications.html">
-                        <!-- <span class="icon"><i class="fas fa-user-friends"></i></span> -->
                         <span class="item">Publications</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/awards.html">
-                        <!-- <span class="icon"><i class="fas fa-tachometer-alt"></i></span> -->
                         <span class="item">Awards</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/CV.html">
-                        <!-- <span class="icon"><i class="fas fa-database"></i></span> -->
                         <span class="item">CV</span>
                     </a>
                 </li>
             </ul>
-        </div>
+        </div> -->
         <div class="content">
             Hi, I am Subhamoy!<br>
             I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by <a href="https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin">Prof. Mahla Poudineh</a> at the <a href="https://uwaterloo.ca/integrated-devices-early-awareness-lab/">Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab</a>. I am currently working on:<br>
