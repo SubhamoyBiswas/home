@@ -27,12 +27,12 @@
   .wrapper .sidebar .profile img{
     display: block;
     width: 100px;
-    height: 100px;
+    height: 120px;
     border-radius: 50%;
     margin: 0 auto;
   }
   .wrapper .sidebar .profile h3{
-    color: #ffffff;
+    color: rgb(241, 237, 237);
     margin: 10px 0 5px;
   }
   .wrapper .sidebar ul li a{
@@ -99,25 +99,7 @@
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/CV.html">
                         <span class="icon"><i class="fas fa-database"></i></span>
-                        <span class="item">Contact</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="icon"><i class="fas fa-chart-line"></i></span>
-                        <span class="item">Reports</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="icon"><i class="fas fa-user-shield"></i></span>
-                        <span class="item">Admin</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="icon"><i class="fas fa-cog"></i></span>
-                        <span class="item">Settings</span>
+                        <span class="item">CV</span>
                     </a>
                 </li>
             </ul>
