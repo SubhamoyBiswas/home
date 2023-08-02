@@ -27,20 +27,21 @@
   .wrapper .sidebar .profile img{
     display: block;
     width: 100px;
-    height: 100px;
+    height: 120px;
     border-radius: 50%;
     margin: 0 auto;
   }
   .wrapper .sidebar .profile h3{
-    color: #ffffff;
+    color: rgb(241, 237, 237);
     margin: 10px 0 5px;
   }
   .wrapper .sidebar ul li a{
     display: block;
     padding: 13px 30px;
-    border-bottom: 1px solid #10558d;
+    border-bottom: 1px solid #000;
     color: rgb(241, 237, 237);
-    font-size: 16px;
+    font-size: 20px;
+    font-family: 'Lucida Grande'
     position: relative;
   }
   .wrapper .sidebar ul li a .icon{
@@ -67,10 +68,6 @@
 <div class="wrapper">
         <!--Top menu -->
         <div class="sidebar">
-            <div class="profile">
-                <img src="profile.png">
-                <h2>Subhamoy Biswas</h2>
-            </div>
            <ul>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/" class="active">
@@ -99,25 +96,7 @@
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/CV.html">
                         <span class="icon"><i class="fas fa-database"></i></span>
-                        <span class="item">Contact</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="icon"><i class="fas fa-chart-line"></i></span>
-                        <span class="item">Reports</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="icon"><i class="fas fa-user-shield"></i></span>
-                        <span class="item">Admin</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="icon"><i class="fas fa-cog"></i></span>
-                        <span class="item">Settings</span>
+                        <span class="item">CV</span>
                     </a>
                 </li>
             </ul>
