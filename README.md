@@ -2,7 +2,7 @@
   * {
     list-style: none;
     text-decoration: none;
-    margin: 0;
+    margin: 0 !important;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
