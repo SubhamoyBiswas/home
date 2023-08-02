@@ -20,6 +20,9 @@
     padding: 20px 0;
     transition: all 0.5s ease;
   }
+  .wrapper .sidebar ul li{
+    display: inline;
+  }
   .wrapper .sidebar ul li a{
     display: block;
     padding: 13px 30px;
