@@ -12,7 +12,7 @@
   }
   .wrapper .sidebar{
     background: rgb(5, 68, 104);
-    position: static;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100px;
