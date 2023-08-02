@@ -116,8 +116,8 @@ Hi!
 I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
 <br>
 <ul>
-   <li> time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients
-   <li> fabrication and optimization of minimally-invasive microneedles for bioanalyte detection
+   <li> 1. time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients
+   <li> 2. fabrication and optimization of minimally-invasive microneedles for bioanalyte detection
 <br>
 <br><img src="Background.png" alt="alt text" width="500" align="middle"/>
 <br>
