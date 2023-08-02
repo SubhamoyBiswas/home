@@ -24,7 +24,7 @@
     display: inline;
   }
   .wrapper .sidebar ul li a{
-    display: inline-block;
+    display: inline;
     padding: 13px 30px;
     border-bottom: 1px solid #000;
     color: rgb(241, 237, 237);
@@ -35,7 +35,7 @@
   .wrapper .sidebar ul li a .icon{
     color: #dee4ec;
     width: 30px;
-    display: inline-block;
+    display: inline;
   }
   .wrapper .sidebar ul li a:hover,
   .wrapper .sidebar ul li a.active{
@@ -49,7 +49,7 @@
   }
   .wrapper .sidebar ul li a:hover:before,
   .wrapper .sidebar ul li a.active:before{
-    display: block;
+    display: inline;
   }
   .wrapper .content{
     margin-left: 150px;
