@@ -73,33 +73,33 @@
             </div>
            <ul>
                 <li>
-                    <a href="#" class="active">
+                    <a href="https://subhamoybiswas.github.io/home/" class="active">
                         <span class="icon"><i class="fas fa-home"></i></span>
                         <span class="item">Home</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://subhamoybiswas.github.io/home/projects.html">
                         <span class="icon"><i class="fas fa-desktop"></i></span>
-                        <span class="item">My Dashboard</span>
+                        <span class="item">Projects</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://subhamoybiswas.github.io/home/publications.html">
                         <span class="icon"><i class="fas fa-user-friends"></i></span>
-                        <span class="item">People</span>
+                        <span class="item">Publications</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://subhamoybiswas.github.io/home/awards.html">
                         <span class="icon"><i class="fas fa-tachometer-alt"></i></span>
-                        <span class="item">Perfomance</span>
+                        <span class="item">Awards</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://subhamoybiswas.github.io/home/CV.html">
                         <span class="icon"><i class="fas fa-database"></i></span>
-                        <span class="item">Development</span>
+                        <span class="item">Contact</span>
                     </a>
                 </li>
                 <li>
@@ -126,7 +126,7 @@
 
 
 
-### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md)
+<!-- ### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md) -->
 
 <br>
 Hi, I am Subhamoy!
