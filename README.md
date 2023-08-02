@@ -2,8 +2,8 @@
   * {
     list-style: none;
     text-decoration: none;
-    margin: 150 !important;
-    padding: 150;
+    margin: 0 !important;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
   }
@@ -50,11 +50,11 @@
   .wrapper .sidebar ul li a:hover:before,
   .wrapper .sidebar ul li a.active:before{
     display: block;
-  } */
+  }
   .wrapper .content{
     display: inline-block;
     margin-left: 0px;
-  }
+  } */
 </style>
 
 <div class="wrapper">
@@ -86,7 +86,7 @@
                     </a>
                 </li>
             </ul>
-        </div> -->
+        </div> 
         <div class="content">
             Hi, I am Subhamoy!<br>
             I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by <a href="https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin">Prof. Mahla Poudineh</a> at the <a href="https://uwaterloo.ca/integrated-devices-early-awareness-lab/">Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab</a>. I am currently working on:<br>
@@ -107,11 +107,11 @@
             <br>In my free time, I enjoy reading and watching horror stories.
             <br>
             <br>
-        </div>
+        </div> -->
 </div>
 <!-- ### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md) -->
 
-<!--Hi, I am Subhamoy!
+Hi, I am Subhamoy!
 
 I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
 
