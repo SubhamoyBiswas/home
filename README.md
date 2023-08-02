@@ -38,9 +38,10 @@
   .wrapper .sidebar ul li a{
     display: block;
     padding: 13px 30px;
-    border-bottom: 1px solid #10558d;
+    border-bottom: 1px solid #000;
     color: rgb(241, 237, 237);
-    font-size: 16px;
+    font-size: 20px;
+    font-family: 'Lucida Grande'
     position: relative;
   }
   .wrapper .sidebar ul li a .icon{
@@ -67,10 +68,6 @@
 <div class="wrapper">
         <!--Top menu -->
         <div class="sidebar">
-            <div class="profile">
-                <img src="profile.png">
-                <h2>Subhamoy Biswas</h2>
-            </div>
            <ul>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/" class="active">
