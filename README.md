@@ -15,7 +15,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 100px;
+    width: 150px;
     height: 100%;
     padding: 20px 0;
     transition: all 0.5s ease;
