@@ -112,7 +112,7 @@
 
 
 ## Publications
-
+<br>
 <ul>
 	<li><font size="+1"><b>Journal articles</b></font><ol>
 		<br><li> Saliani A, <b>Biswas S</b>, Jacquemet V. (2022) "Simulation of atrial fibrillation in a non-ohmic propagation model with dynamic gap junctions". Chaos. 32(4):043113. <a href="https://doi.org/10.1063/5.0082763" target="_top">[DOI]</a></li><br>
