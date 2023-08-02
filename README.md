@@ -72,7 +72,7 @@
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/" class="active">
                         <!-- <span class="icon"><i class="fas fa-home"></i></span> -->
-                        <span class="item">Home</span>
+                        <span class="item">About</span>
                     </a>
                 </li>
                 <li>
@@ -103,7 +103,6 @@
         </div>
 </div>
 <!-- ### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md) -->
-<br>
 Hi, I am Subhamoy!
 
 I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
