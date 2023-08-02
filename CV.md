@@ -15,7 +15,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 225px;
+    width: 300px;
     height: 100%;
     padding: 20px 0;
     transition: all 0.5s ease;
@@ -71,31 +71,31 @@
            <ul>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/" class="active">
-                        <span class="icon"><i class="fas fa-home"></i></span>
-                        <span class="item">Home</span>
+                        <!-- <span class="icon"><i class="fas fa-home"></i></span> -->
+                        <span class="item">About</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/projects.html">
-                        <span class="icon"><i class="fas fa-desktop"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-desktop"></i></span> -->
                         <span class="item">Projects</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/publications.html">
-                        <span class="icon"><i class="fas fa-user-friends"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-user-friends"></i></span> -->
                         <span class="item">Publications</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/awards.html">
-                        <span class="icon"><i class="fas fa-tachometer-alt"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-tachometer-alt"></i></span> -->
                         <span class="item">Awards</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://subhamoybiswas.github.io/home/CV.html">
-                        <span class="icon"><i class="fas fa-database"></i></span>
+                        <!-- <span class="icon"><i class="fas fa-database"></i></span> -->
                         <span class="item">CV</span>
                     </a>
                 </li>
