@@ -3,7 +3,7 @@
     list-style: none;
     text-decoration: none;
     margin: 150 !important;
-    padding: 0;
+    padding: 150;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
   }
