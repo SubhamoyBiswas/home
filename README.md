@@ -24,7 +24,7 @@
     display: inline;
   }
   .wrapper .sidebar ul li a{
-    display: block;
+    display: inline-block;
     padding: 13px 30px;
     border-bottom: 1px solid #000;
     color: rgb(241, 237, 237);
