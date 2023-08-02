@@ -15,7 +15,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 300px;
+    width: 100px;
     height: 100%;
     padding: 20px 0;
     transition: all 0.5s ease;
@@ -25,7 +25,7 @@
     padding: 13px 30px;
     border-bottom: 1px solid #000;
     color: rgb(241, 237, 237);
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Lucida Grande'
     position: relative;
   }
@@ -49,7 +49,7 @@
     display: block;
   }
   .wrapper .content{
-    margin-left: 300px;
+    margin-left: 150px;
   }
 </style>
 
