@@ -110,7 +110,7 @@
         </div> -->
 </div>
 ## Awards
-
+<br>
 <ul>
 	<li><font size="+1"><b>Waterloo Institute of Nanotechnology (WIN) Nanofellowship</b> - University of Waterloo</font><ul>
 		<li> $10,000 - Awarded to top graduate students pursuing nanotechnology research at UW</li><br>
