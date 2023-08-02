@@ -20,21 +20,6 @@
     padding: 20px 0;
     transition: all 0.5s ease;
   }
-  .wrapper .sidebar .profile{
-    margin-bottom: 30px;
-    text-align: center;
-  }
-  .wrapper .sidebar .profile img{
-    display: block;
-    width: 100px;
-    height: 120px;
-    border-radius: 50%;
-    margin: 0 auto;
-  }
-  .wrapper .sidebar .profile h3{
-    color: rgb(241, 237, 237);
-    margin: 10px 0 5px;
-  }
   .wrapper .sidebar ul li a{
     display: block;
     padding: 13px 30px;
