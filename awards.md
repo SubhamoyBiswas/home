@@ -102,8 +102,6 @@
             </ul>
         </div>
 </div>
-
-
 ## Awards
 
 <ul>
@@ -121,6 +119,6 @@
 	</ul></li>
 </ul>
 <br>
-### [<< return to homepage](README.md)
+<!-- ### [<< return to homepage](README.md) -->
 
 
