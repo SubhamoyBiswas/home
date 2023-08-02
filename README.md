@@ -48,7 +48,40 @@
   .wrapper .sidebar ul li a.active:before{
     display: block;
   }
+  .wrapper .section{
+    width: calc(100% - 225px);
+    margin-left: 300px;
+    transition: all 0.5s ease;
+  }
+  .wrapper .section .top_navbar{
+    background: rgb(7, 105, 185);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+  }
+  .wrapper .section .top_navbar .hamburger a{
+    font-size: 28px;
+    color: #f4fbff;
+  }
+  .wrapper .section .top_navbar .hamburger a:hover{
+    color: #a2ecff;
+  }
+  body.active .wrapper .sidebar{
+    left: -300px;
+  }
+  body.active .wrapper .section{
+    margin-left: 0;
+    width: 100%;
+  }
 </style>
+
+<script>
+  var hamburger = document.querySelector(".hamburger");
+    hamburger.addEventListener("click", function(){
+        document.querySelector("body").classList.toggle("active");
+    })
+</script>
 
 <div class="wrapper">
         <!--Top menu -->
@@ -85,6 +118,15 @@
                     </a>
                 </li>
             </ul>
+        </div>
+        <div class="section">
+            <div class="top_navbar">
+                <div class="hamburger">
+                    <a href="#">
+                        <i class="fas fa-bars"></i>
+                    </a>
+                </div>
+            </div>
         </div>
 </div>
 <!-- ### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md) -->
