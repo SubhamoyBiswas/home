@@ -53,7 +53,7 @@
   }
   .wrapper .content{
     display: inline-block;
-    margin-left: 150px;
+    margin-left: 0px;
   }
 </style>
 
