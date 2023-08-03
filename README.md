@@ -128,9 +128,10 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
 <br>I have enjoyed working at the following institutions:
 <br>
 <br>
-<img src="UW_logo.png" alt="alt text" height="100" align="middle"/>    <img src="UdeM_logo.png" alt="alt text" height="100" align="middle"/>
+<img src="UW_logo.png" alt="alt text" height="100" align="middle"/>&emsp;    <img src="UdeM_logo.png" alt="alt text" height="100" align="middle"/>
 <br>
-<img src="JU_logo.png" alt="alt text" height="100" align="middle"/>    <img src="UMDuluth_logo.png" alt="alt text" height="100" align="middle"/>
+<br>
+<img src="JU_logo.png" alt="alt text" height="100" align="middle"/>&emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="100" align="middle"/>
 <br>
 <br>
 <br>In my free time, I enjoy reading and watching horror stories.
