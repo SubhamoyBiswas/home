@@ -129,10 +129,10 @@ I received my Bachelor of Engineering degree with Honours in Electrical Engineer
 <br>I have enjoyed working at the following institutions:
 <br>
 <br>
-<img src="UW_logo.png" alt="alt text" height="100" align="middle"/>&emsp;    <img src="UdeM_logo.png" alt="alt text" height="100" align="middle"/>
+<img src="UW_logo.png" alt="alt text" height="90" align="middle"/>&emsp;    <img src="UdeM_logo.png" alt="alt text" height="90" align="middle"/>
 <br>
 <br>
-<img src="JU_logo.png" alt="alt text" height="100" align="middle"/>&emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="100" align="middle"/>
+<img src="JU_logo.png" alt="alt text" height="90" align="middle"/>&emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="90" align="middle"/>
 <br>
 <br>
 <br>In my free time, I enjoy reading and watching horror stories.
