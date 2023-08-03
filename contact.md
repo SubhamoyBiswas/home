@@ -115,6 +115,7 @@
 <br>
 <ul>
 	<li><b>Email: <a href="">s2biswas@uwaterloo.ca</a></b></li><br>
+	<li><b>Other links: </b><a href="https://github.com/SubhamoyBiswas/" target="_top"><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/subhamoy-biswas-16869316a/" target="_top"><b>LinkedIn</b></a> | <a href="https://scholar.google.ca/citations?user=bHMeN1UAAAAJ&hl=en" target="_top"><b>Google Scholar</b></a> | <a href="https://www.instagram.com/__subhamoy.b/" target="_top"><b>Instagram</b></a></li><br>
 	<li><b>Location: </b>4611 QNC, University of Waterloo, 200 University Avenue West, Waterloo, ON N2L3G1<br><br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2895.492412476309!2d-80.54659352412112!3d43.471193164184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882bf6aa030140c1%3A0x1bc6d1d3667b8e16!2sMike%20%26%20Ophelia%20Lazaridis%20Quantum-Nano%20Centre%20(QNC)!5e0!3m2!1sen!2sca!4v1691098336985!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
 </ul>
 <br>
