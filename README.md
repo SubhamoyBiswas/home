@@ -112,8 +112,7 @@
 <!-- ### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md) -->
 ## About
 <br>
-Hi!
-<br>
+<img src="background.jpg" alt="alt text" width="500" align="middle"/>
 <br>
 I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
 <br>
@@ -136,8 +135,6 @@ I received my Bachelor of Engineering degree with Honours in Electrical Engineer
 <br>
 <br>In my free time, I enjoy reading and watching horror stories.
 <br>
-<br>
-<img src="background.jpg" alt="alt text" width="500" align="middle"/>
 <br>
 <br>
 <!-- ### <a href="mailto:s2biswas@uwaterloo.ca" target="_top">Email</a> | <a href="https://github.com/SubhamoyBiswas/" target="_top">GitHub</a> | <a href="https://www.linkedin.com/in/subhamoy-biswas-16869316a/" target="_top">LinkedIn</a> | <a href="https://scholar.google.ca/citations?user=bHMeN1UAAAAJ&hl=en" target="_top">Google Scholar</a> | <a href="https://www.instagram.com/__subhamoy.b/" target="_top">Instagram</a>
