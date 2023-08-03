@@ -114,6 +114,8 @@
 <br>
 <img src="background.jpg" alt="alt text" width="500" align="middle"/>
 <br>
+<br>
+<br>
 I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
 <br>
 <ul>
