@@ -114,8 +114,8 @@
 ## Contact
 <br>
 <ul>
-	<li>Email: <a href=""><b>s2biswas@uwaterloo.ca</b></a></li><br>
-	<li>Location: <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2895.492412476309!2d-80.54659352412112!3d43.471193164184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882bf6aa030140c1%3A0x1bc6d1d3667b8e16!2sMike%20%26%20Ophelia%20Lazaridis%20Quantum-Nano%20Centre%20(QNC)!5e0!3m2!1sen!2sca!4v1691098336985!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
+	<li><font size="+1"><b>Email: <a href="">s2biswas@uwaterloo.ca</a></b></font></li><br>
+	<li><font size="+1"><b>Location: </b></font><br><br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2895.492412476309!2d-80.54659352412112!3d43.471193164184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882bf6aa030140c1%3A0x1bc6d1d3667b8e16!2sMike%20%26%20Ophelia%20Lazaridis%20Quantum-Nano%20Centre%20(QNC)!5e0!3m2!1sen!2sca!4v1691098336985!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
 </ul>
 <br>
 <br>
