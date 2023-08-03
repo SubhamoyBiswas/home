@@ -130,4 +130,3 @@
 	</ol></li>
 </ul>
 <br>
-### [<< return to homepage](README.md)
