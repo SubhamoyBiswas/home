@@ -118,8 +118,9 @@ Hi!
 I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
 <br>
 <ul>
-   <li> 1. time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients
-   <li> 2. fabrication and optimization of minimally-invasive microneedles for bioanalyte detection
+   <li> 1. time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients</li>
+   <li> 2. fabrication and optimization of minimally-invasive microneedles for bioanalyte detection</li>
+</ul>
 <br>
 <br>I received my Bachelor of Engineering degree with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
 <br>
@@ -127,7 +128,9 @@ I am a research candidate in the Master of Applied Science in Electrical and Com
 <br>I have enjoyed working at the following institutions:
 <br>
 <br>
-<img src="UW_logo.png" alt="alt text" height="60" align="middle"/>    <img src="UdeM_logo.png" alt="alt text" height="60" align="middle"/>    <img src="JU_logo.png" alt="alt text" height="60" align="middle"/>    <img src="UMDuluth_logo.png" alt="alt text" height="60" align="middle"/>
+<img src="UW_logo.png" alt="alt text" height="100" align="middle"/>    <img src="UdeM_logo.png" alt="alt text" height="100" align="middle"/>
+<br>
+<img src="JU_logo.png" alt="alt text" height="100" align="middle"/>    <img src="UMDuluth_logo.png" alt="alt text" height="100" align="middle"/>
 <br>
 <br>
 <br>In my free time, I enjoy reading and watching horror stories.
