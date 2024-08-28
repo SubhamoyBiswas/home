@@ -85,6 +85,11 @@
                         <span class="item">CV</span>
                     </a>
                 </li>
+                <li>
+                    <a href="https://www.instagram.com/pixels.life/">
+                        <span class="item">Photography</span>
+                    </a>
+                </li>
             </ul>
         </div> 
         <div class="content">
