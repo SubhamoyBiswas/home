@@ -111,7 +111,6 @@
 <!-- ### [Publications](publications.md)  |  [Projects](projects.md)  |  [Awards](awards.md)  |  [CV](CV.md) -->
 ## About
 <br>
-<img src="background.jpg" alt="alt text" width="500" align="middle"/>
 <br>
 <br>
 <br>
