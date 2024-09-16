@@ -90,6 +90,11 @@
                         <span class="item">Photography</span>
                     </a>
                 </li>
+                <li>
+                    <a href="https://subhamoybiswas.github.io/home/contact.html">
+                        <span class="item">Contact</span>
+                    </a>
+                </li>
             </ul>
         </div> 
         <div class="content">
