@@ -141,7 +141,7 @@ I received my Bachelor of Engineering degree with Honours in Electrical Engineer
 <img src="JU_logo.png" alt="alt text" height="90" align="middle"/>&emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="90" align="middle"/>
 <br>
 <br>
-<br>In my free time, I enjoy reading and watching horror stories.
+<br>In my free time, I enjoy photography and watching horror stories.
 <br>
 <br>
 <br>
