@@ -114,7 +114,7 @@
             <img src="UW_logo.png" alt="alt text" height="80" align="middle"/>    <img src="UdeM_logo.png" alt="alt text" height="80" align="middle"/>    <img src="JU_logo.png" alt="alt text" height="80" align="middle"/>
             <br>
             <br>
-            <br>In my free time, I enjoy reading and watching horror stories.
+            <br>In my free time, I enjoy photography and watching horror stories.
             <br>
             <br>
         </div> -->
