@@ -85,6 +85,16 @@
                         <span class="item">CV</span>
                     </a>
                 </li>
+		<li>
+                    <a href="https://www.instagram.com/pixels.life/">
+                        <span class="item">Photography</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://subhamoybiswas.github.io/home/contact.html">
+                        <span class="item">Contact</span>
+                    </a>
+                </li>
             </ul>
         </div> 
         <div class="content">
@@ -104,7 +114,7 @@
             <img src="UW_logo.png" alt="alt text" height="80" align="middle"/>    <img src="UdeM_logo.png" alt="alt text" height="80" align="middle"/>    <img src="JU_logo.png" alt="alt text" height="80" align="middle"/>
             <br>
             <br>
-            <br>In my free time, I enjoy reading and watching horror stories.
+            <br>In my free time, I enjoy photography and watching horror stories.
             <br>
             <br>
         </div> -->
