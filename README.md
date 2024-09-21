@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Open Sans', serif;
+    font-family: 'Open Sans', Sans-serif, Helvetica;
   }
   /*body {
     background: #f5f6fa;
