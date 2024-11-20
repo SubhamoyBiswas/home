@@ -124,9 +124,9 @@
 ## Contact
 <br>
 <ul>
-	<li><b>Email: <a href="">s2biswas@uwaterloo.ca</a></b></li><br>
+	<li><b>Email: <a href="">biswassu@ohsu.ca</a></b></li><br>
 	<li><b>Other links: </b><a href="https://github.com/SubhamoyBiswas/" target="_top"><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/subhamoy-biswas-16869316a/" target="_top"><b>LinkedIn</b></a> | <a href="https://scholar.google.ca/citations?user=bHMeN1UAAAAJ&hl=en" target="_top"><b>Google Scholar</b></a> | <a href="https://www.instagram.com/kung.pao_chicken_/" target="_top"><b>Instagram</b></a></li><br>
-	<li><b>Location: </b>4611 QNC, University of Waterloo, 200 University Avenue West, Waterloo, ON N2L3G1<br><br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2895.492412476309!2d-80.54659352412112!3d43.471193164184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882bf6aa030140c1%3A0x1bc6d1d3667b8e16!2sMike%20%26%20Ophelia%20Lazaridis%20Quantum-Nano%20Centre%20(QNC)!5e0!3m2!1sen!2sca!4v1691098336985!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
+	<li><b>Location: </b>Center for Health & Healing, Oregon Health & Science University, 3303 S.W. Bond Avenue, Portland, OR 97239<br><br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2860.296449776613!2d-122.67405216452012!3d45.498356180319774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a6866955555%3A0xbfccc746c4b52be8!2sOHSU%20Center%20for%20Health%20%26%20Healing!5e0!3m2!1sen!2sus!4v1732144278597!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
 </ul>
 <br>
 <br>
