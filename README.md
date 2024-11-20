@@ -122,14 +122,9 @@
 ## About
 <br>
 <br>
-I am a research candidate in the Master of Applied Science in Electrical and Computer Engineering program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/). I am currently working on:
-<br>
-<ul>
-   <li> 1. time-series models for long-term glucose monitoring and forecasting diabetic ketoacidosis in patients</li>
-   <li> 2. fabrication and optimization of minimally-invasive microneedles for bioanalyte detection</li>
-</ul>
-<br>
-I received my Bachelor of Engineering degree with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
+I am a PhD student in the Biomedical Engineering program at the Oregon Health & Science University School of Medicine, advised by [Prof. Peter Jacobs](https://www.ohsu.edu/people/peter-g-jacobs-phd) at [Artificial Intelligence for Medical Systems (AIMS) Lab](https://www.ohsu.edu/school-of-medicine/jacobs-lab), starting Fall 2024.
+
+Previously, I completed my thesis research in the Master of Applied Science program in Electrical & Computer Engineering program at the University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/), where I primarily worked in the area of machine learning-assisted continuous glucose and ketone monitoring for diabetic ketoacidosis patients. I received my Bachelor of Engineering degree with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
 <br>
 <br>
 <br>I have enjoyed working at the following institutions:
