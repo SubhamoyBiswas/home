@@ -122,7 +122,7 @@
 ## About
 <br>
 <br>
-<p>img src="my profile.jpg" alt="face image" 
+<p><img src="my profile.jpg" alt="face image" 
 style="float:left; width:42px; height:42px;">I am a PhD student in the Biomedical Engineering program at the Oregon Health & Science University School of Medicine, advised by [Prof. Peter Jacobs](https://www.ohsu.edu/people/peter-g-jacobs-phd) at [Artificial Intelligence for Medical Systems (AIMS) Lab](https://www.ohsu.edu/school-of-medicine/jacobs-lab), starting in Fall 2024. My current direction of research is using foundation models in AI to improve clinical outcomes in diabetic patients.
 
 Previously, I completed my thesis research in the Master of Applied Science program in Electrical & Computer Engineering program at the University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/), where I primarily worked in the area of machine learning-assisted continuous glucose and ketone monitoring for diabetic ketoacidosis patients. I received my Bachelor of Engineering degree with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.</p>
