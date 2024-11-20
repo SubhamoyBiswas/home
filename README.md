@@ -129,7 +129,7 @@ Previously, I completed my thesis research in the Master of Applied Science prog
 <br>I have enjoyed working at the following institutions:
 <br>
 <br>
-<img src="SOM_RGB_4C_POS.png" alt="alt text" height="90" align="middle"/>&emsp;    <img src="UW_logo.png" alt="alt text" height="90" align="middle"/>
+<img src="SOM-RGB-4C-POS.png" alt="alt text" height="90" align="middle"/>&emsp;    <img src="UW_logo.png" alt="alt text" height="90" align="middle"/>
 <br>
 <br>
 <img src="UW_logo.png" alt="alt text" height="90" align="middle"/>&emsp;    <img src="UdeM_logo.png" alt="alt text" height="90" align="middle"/>
