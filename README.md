@@ -135,7 +135,7 @@ Previously, I completed my thesis research in the Master of Applied Science prog
 <img src="UdeM_logo.png" alt="alt text" height="90" align="middle"/>&emsp;    <img src="JU_logo.png" alt="alt text" height="90" align="middle"/>
 <br>
 <br>
-<img src="UMDuluth_logo.png" alt="alt text" height="90" align="middle"/><!-- &emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="90" align="middle"/> -->
+<img src="UMDuluth_logo.png" alt="alt text" height="75" align="middle"/><!-- &emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="90" align="middle"/> -->
 <br>
 <br>
 <br>In my free time, I enjoy photography and watching horror stories.
