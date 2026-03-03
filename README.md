@@ -122,9 +122,9 @@
 ## About
 <br>
 <br>
-I am a PhD student in the Biomedical Engineering program at the Oregon Health & Science University School of Medicine, advised by [Prof. Peter Jacobs](https://www.ohsu.edu/people/peter-g-jacobs-phd) at [Artificial Intelligence for Medical Systems (AIMS) Lab](https://www.ohsu.edu/school-of-medicine/jacobs-lab), starting in Fall 2024. My current direction of research is using foundation models in AI to improve clinical outcomes in diabetic patients.
+I am a PhD student in the Biomedical Engineering program at Oregon Health & Science University School of Medicine, advised by [Prof. Peter Jacobs](https://www.ohsu.edu/people/peter-g-jacobs-phd) at [Artificial Intelligence for Medical Systems (AIMS) Lab](https://www.ohsu.edu/school-of-medicine/jacobs-lab). I am currently working on the enabling small language models in providing recommendations to T1D participants and assessing their risks and safety concerns.
 
-Previously, I completed my thesis research in the Master of Applied Science program in Electrical & Computer Engineering program at the University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/), where I primarily worked in the area of machine learning-assisted continuous glucose and ketone monitoring for diabetic ketoacidosis patients. I received my Bachelor of Engineering degree with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
+Previously, I completed my thesis research in the Master of Applied Science program in ECE program at University of Waterloo, advised by [Prof. Mahla Poudineh](https://uwaterloo.ca/electrical-computer-engineering/profile/m2poudin) at the [Integrated Devices for Early Disease Awareness and Translational Applications (IDEATION) Lab](https://uwaterloo.ca/integrated-devices-early-awareness-lab/), where I primarily worked in the area of machine learning-assisted continuous glucose and ketone monitoring for diabetic ketoacidosis patients. I received my Bachelor of Engineering degree with Honours in Electrical Engineering from Jadavpur University, India. During my undergraduate years, I developed multiple computational frameworks for applications like detecting therapeutic drug targets in viruses and simulating the dynamics of atrial fibrillation. My research interest lies in the domains of computational biology and biomedical devices and in applying machine learning approaches to solve state-of-the-art bioengineering problems.
 <br>
 <br>I have enjoyed working at the following institutions:
 <br>
@@ -138,7 +138,7 @@ Previously, I completed my thesis research in the Master of Applied Science prog
 <img src="UMDuluth_logo.png" alt="alt text" height="75" align="middle"/><!-- &emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="90" align="middle"/> -->
 <br>
 <br>
-<br>In my free time, I enjoy photography and watching horror stories.
+<br>In my free time, I enjoy photography and playing games.
 <br>
 <br>
 <br>
