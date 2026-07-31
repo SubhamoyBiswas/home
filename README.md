@@ -138,7 +138,7 @@ Previously, I completed my thesis research in the Master of Applied Science prog
 <img src="UMDuluth_logo.png" alt="alt text" height="75" align="middle"/><!-- &emsp;    <img src="UMDuluth_logo.png" alt="alt text" height="90" align="middle"/> -->
 <br>
 <br>
-<br>In my free time, I enjoy photography and playing games.
+<br>As a hobby, I enjoy photography! Feel free to check my cool stuff on my photography page!
 <br>
 <br>
 <br>
